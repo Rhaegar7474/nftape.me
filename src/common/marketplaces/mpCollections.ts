@@ -250,9 +250,9 @@ export const collections = {
   '9NmVeZjZ3v3PiT5bcdL8MmMBJJBeYvBoKqC1PwWQSKgR': {
     ME: 'eyeballz',
   },
-  // '': {
-  //   SA: '',
-  //   DE: '',
-  //   ME: '',
+  // '5grvMeoBqv5ZdHq9JMy5RrxLPNAt1nzc9cpqYWFUwizz': {
+  //   SA: 'portals',
+  //   DE: 'Portals',
+  //   ME: 'portals',
   // },
 };
